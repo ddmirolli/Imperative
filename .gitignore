@@ -1,3 +1,9 @@
+# Linux Filesystem and Python virtual environment
+bin/
+lib64
+pyvenv.cfg
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
